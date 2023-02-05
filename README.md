@@ -17,6 +17,3 @@ To run use the command:
 ```bash
 [source-dir]/bin/lispy
 ```
-
-## Comments
-Email any comments or questions to me (Arno) at mindlessentropy@gmail.com
